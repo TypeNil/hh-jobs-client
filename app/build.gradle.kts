@@ -9,13 +9,13 @@ plugins {
 android {
     namespace = "com.github.typenil.hhjobs"
     compileSdk {
-        version = release(36)
+        version = release(37)
     }
 
     defaultConfig {
         applicationId = "com.github.typenil.hhjobs"
         minSdk = 26
-        targetSdk = 36
+        targetSdk = 37
         versionCode = 1
         versionName = "0.1.0"
 
