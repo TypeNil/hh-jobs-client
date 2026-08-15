@@ -1,4 +1,4 @@
-package com.github.typenil.hhjobs.ui.theme
+package com.github.typenil.hhjobs.core.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
